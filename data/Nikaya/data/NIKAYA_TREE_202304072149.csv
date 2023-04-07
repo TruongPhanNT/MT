@@ -1,0 +1,45 @@
+"ID_NIK","ID_NIT","P_ID_NIK","P_ID_NIT","NAME_NIT_PAL","NAME_NIT_ENG","NAME_NIT_VIE"
+1,1,,,Digha Nikaya I,Digha Nikaya I,Trường Bộ I
+1,2,,,Digha Nikaya II,Digha Nikaya II,Trường Bộ II
+2,1,,,Majjhima Nikaya I,Majjhima Nikaya I,Trung Bộ I
+2,2,,,Majjhima Nikaya II,Majjhima Nikaya II,Trung Bộ II
+2,3,,,Majjhima Nikaya III,Majjhima Nikaya III,Trung Bộ III
+3,1,,,"Ekakanipātapāḷi
+
+",Ekakanipātapāḷi,Chương Một Pháp
+4,1,,,Sagāthāvaggo,Sagāthāvaggo,Tập I - Thiên Có Kệ
+4,2,,,Nidānavaggo,Nidānavaggo,Tập II - Thiên Nhân Duyên
+3,2,,,"Dukanipātapāḷi
+
+",Dukanipātapāḷi,Chương Hai Pháp
+4,3,,,Khandhavaggo,Khandhavaggo,Tập III - Thiên Uẩn
+4,4,,,Saḷāyatanavaggo,Saḷāyatanavaggo,Tập IV - Thiên Sáu Xứ
+3,3,,,Tikanipātapāḷi,Tikanipātapāḷi,Chương Ba Pháp
+4,5,,,Mahāvaggo,Mahāvaggo,Tập V - Thiên Ðại Phẩm
+5,1,,,Khuddakapāṭhapāḷi,Khuddakapāṭhapāḷi,Kinh Tiểu Tụng
+5,2,,,Dhammapadapāḷi,Dhammapadapāḷi,Kinh Pháp Cú
+5,3,,,Udānapāḷi,Udānapāḷi,Kinh Phật Tự Thuyết
+5,4,,,Itivuttakapāḷi,Itivuttakapāḷi,Kinh Phật Thuyết Như Vậy
+3,4,,,"Catukkanipātapāḷi
+
+",Catukkanipātapāḷi,Chương Bốn Pháp
+3,5,,,Pañcakanipātapāḷi,Pañcakanipātapāḷi,Chương Năm Pháp
+3,6,,,Chakkanipātapāḷi,Chakkanipātapāḷi,Chương Sáu Pháp
+3,7,,,Sattakanipātapāḷi,Sattakanipātapāḷi,Chương Bảy Pháp
+3,8,,,Aṭṭhakanipātapāḷi,Aṭṭhakanipātapāḷi,Chương Tám Pháp
+3,9,,,Navakanipātapāḷi,Navakanipātapāḷi,Chương Chín Pháp
+3,10,,,Dasakanipātapāḷi,Dasakanipātapāḷi,Chương Mười Pháp
+3,11,,,Ekādasakanipātapāḷi,Ekādasakanipātapāḷi,Chương Mười Một Pháp
+5,6,,,Vimānavatthupāḷi,Vimānavatthupāḷi,Chuyện Thiên Cung
+5,7,,,Petavatthupāḷi,Petavatthupāḷi,Chuyện Ngạ Quỷ
+5,8,,,Theragāthāpāḷi,Theragāthāpāḷi,Trưởng Lão Tăng Kệ
+5,9,,,Therīgāthāpāḷi,Therīgāthāpāḷi,Trưởng Lão Ni Kệ 
+5,10,,,Jātakapāḷi,Jātakapāḷi,Chuyện Tiền Thân
+5,5,,,Suttanipātapāḷi,Suttanipātapāḷi,Kinh Tập
+5,101,5,10,Jātakapāḷi I,Jātakapāḷi I,Chuyện Tiền Thân I (số 1-120)
+5,102,5,10,Jātakapāḷi II,Jātakapāḷi II,Chuyện Tiền Thân II (số 121-263)
+5,103,5,10,Jātakapāḷi III,Jātakapāḷi III,Chuyện Tiền Thân III (số 264-395)
+5,104,5,10,Jātakapāḷi IV,Jātakapāḷi IV,Chuyện Tiền Thân IV (số 396-472)
+5,105,5,10,Jātakapāḷi V,Jātakapāḷi V,Chuyện Tiền Thân V (số 473-520)
+5,106,5,10,Jātakapāḷi VI,Jātakapāḷi VI,Chuyện Tiền Thân VI (số 521-539)
+5,107,5,10,Jātakapāḷi VII,Jātakapāḷi VII,Chuyện Tiền Thân VII (số 540-547)

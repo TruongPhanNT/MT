@@ -1,0 +1,32 @@
+CREATE TABLE NIKAYA_CONTENT (
+    ID_NIK Int32 NOT NULL,
+    ID_NIT Int32 NOT NULL,
+    ID_NIC Int32 NOT NULL,
+    NUMBER_NIC Nullable(Int32),
+    NAME_NIC_PAL String,
+    NAME_NIC_ENG String,
+    NAME_NIC_VIE String,
+    CONTENT_PAL String,
+    CONTENT_ENG String,
+    CONTENT_VIE String,
+    CONTENT_VIE_OTHER String,
+    CONTENT_PALI_VIET String
+) ENGINE = MergeTree()
+  ORDER BY (ID_NIK, ID_NIT, ID_NIC)
+
+
+SELECT
+        toInt32(column1) AS ID_NIK,
+        toInt32(column2) AS ID_NIT,
+        toInt32(column3) AS ID_NIC,
+        toNullableInt32(column4) AS NUMBER_NIC,
+        column5 AS NAME_NIC_PAL,
+        column6 AS NAME_NIC_ENG,
+        column7 AS NAME_NIC_VIE,
+        column8 AS CONTENT_PAL,
+        column9 AS CONTENT_ENG,
+        column10 AS CONTENT_VIE,
+        column11 AS CONTENT_VIE_OTHER,
+        column12 AS CONTENT_PALI_VIET
+    FROM
+        file('/home/truong/data/Nikaya/data/NIKAYA_CONTENT_202304072147.csv')
